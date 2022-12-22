@@ -130,9 +130,6 @@
 	<a href="https://linkedin.com/in/marcos-theodoro" target="_blank">
 		<img src="https://img.shields.io/badge/linkedin:  Marktheo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin>
 	</a>
-	<a href="mailto:marcosvinytheo@gmail.com" target="_blank">
-		<img src="https://img.shields.io/badge/gmail:  PERSONAL-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-	</a>
 	<a href="mailto:marcos_theodoro.20221@poli.ufrj.br" target="_blank">
 		<img src="https://img.shields.io/badge/gmail:  PROFESSIONAL-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 	</a>
