@@ -19,18 +19,14 @@
 > Graduando em Engenharia de Controle e Automação | UFRJ
 > 
 > Técnico em Automação Industrial | CEFET/RJ | [2019 - 2022]
-> 
-> Escola de Língua Inglesa | Cultura Inglesa | [2015 - 2021]
 
 <br>
 
 > <h2>Experiências</h2>
 > 
-> Membro de Eletrônica | UFRJ Nautilus
+> Coordenador de Eletrônica | UFRJ Nautilus
 > 
 > Desenvolvedor Back-End Júnior | OBInvest | [2021]
-> 
-> Monitor Bolsista de Física | CEFET/RJ | [2020, 2021]
 > 
 > Projeto de Iniciação Científica em Robótica | CEFET/RJ | [2019]
 
@@ -69,20 +65,13 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=113140)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-
-<br>
-
-> <h2>Orientação a Objetos</h2>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 <br>
 
 > <h2>Desenvolvimento Web</h2>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -99,7 +88,6 @@
 > <h2>Ferramentas</h2>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
