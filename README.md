@@ -121,7 +121,7 @@
 
 <br><br>
 
-<h1 align='center'>Send me a Message</h1>
+<h1 align='center'>Contact Me</h1>
 
 <br>
 
