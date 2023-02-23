@@ -1,4 +1,4 @@
-<h1 align='center'>Olá, eu sou Marcos Theodoro 👋</h1>
+<h1 align='center'>Hi, I am Marcos Theodoro 👋</h1>
 
 <div  align='center' style='display: flex; flex-direction: column;'>
 	<img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' width='480' height='360'>
@@ -10,47 +10,47 @@
 
 <br><br>
 
-<h1 align='center'>Sobre mim</h1>
+<h1 align='center'>About me</h1>
 
 <br>
 
-> <h2>Formação Acadêmica</h2>
+> <h2>Academic Background</h2>
 > 
-> Graduando em Engenharia de Controle e Automação | UFRJ
+> Control and Automation Engeneering | UFRJ
 > 
-> Técnico em Automação Industrial | CEFET/RJ | [2019 - 2022]
+> Industrial Automation Technician | CEFET/RJ | [2019 - 2022]
 
 <br>
 
-> <h2>Experiências</h2>
+> <h2>Academic Experiences</h2>
 > 
-> Coordenador de Eletrônica | UFRJ Nautilus
+> Eletronics and Hardware Coordinator | UFRJ Nautilus
 > 
-> Desenvolvedor Back-End Júnior | OBInvest | [2021]
+> Junior Back-End Developer | OBInvest | [2021]
 > 
-> Projeto de Extensão em Robótica | CEFET/RJ | [2019]
+> Robótics Academic Extension Activity | CEFET/RJ | [2019]
 
 <br>
 
-> <h2>Interesses</h2>
+> <h2>Interests</h2>
+>
+> Robotics & IOT
 > 
 > Data Science
 > 
 > Machine Learning
 > 
-> Robótica e IOT
-> 
-> Desenvolvimento Web
+> Web Development
 
 
 <br><br>
 
 
-<h1 align='center'>Competências</h1>
+<h1 align='center'>Skills</h1>
 
 <br>
 
-> <h2>Robótica e IOT</h2>
+> <h2>Robotics & IOT</h2>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -58,7 +58,7 @@
 
 <br>
 
-> <h2>Data Science e Machine Learning</h2>
+> <h2>Data Science & Machine Learning</h2>
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23ffffff.svg?style=for-the-badge&logo=pandas&logoColor=130754)
 ![NumPy](https://img.shields.io/badge/numpy-%23ffffff.svg?style=for-the-badge&logo=numpy&logoColor=113140)
@@ -67,7 +67,7 @@
 
 <br>
 
-> <h2>Desenvolvimento Web</h2>
+> <h2>Web Development</h2>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
@@ -85,7 +85,7 @@
 
 <br>
 
-> <h2>Ferramentas</h2>
+> <h2>Other Tools</h2>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -97,7 +97,7 @@
 
 <br>
 
-> <h2>Sistemas Operacionais e Distros</h2>
+> <h2>Operational Systems & Distros</h2>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
@@ -108,7 +108,7 @@
 
 <br><br>
 
-<h1 align='center'>Estatísticas do GitHub</h1>
+<h1 align='center'>GitHub Statistics</h1>
 
 <br>
 
@@ -121,7 +121,7 @@
 
 <br><br>
 
-<h1 align='center'>Meus Contatos</h1>
+<h1 align='center'>Send me a Message</h1>
 
 <br>
 
