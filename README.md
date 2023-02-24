@@ -24,11 +24,11 @@
 
 > <h2>Academic Experiences</h2>
 > 
-> Eletronics and Hardware Coordinator | UFRJ Nautilus
+> Electronics and Hardware Coordinator | UFRJ Nautilus
 > 
 > Junior Back-End Developer | OBInvest | [2021]
 > 
-> Robótics Academic Extension Activity | CEFET/RJ | [2019]
+> Robotics Academic Extension Activity | CEFET/RJ | [2019]
 
 <br>
 
