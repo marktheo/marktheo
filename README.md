@@ -16,19 +16,19 @@
 
 > <h2>Academic Background</h2>
 > 
-> Control and Automation Engineering | UFRJ
+> Control and Automation Engineering at UFRJ [2023 - Now]
 > 
-> Industrial Automation Technician | CEFET/RJ | [2019 - 2022]
+> Industrial Automation Degree by CEFET/RJ [2019 - 2022]
 
 <br>
 
 > <h2>Academic Experiences</h2>
 > 
-> Electronics and Hardware Coordinator | UFRJ Nautilus
+> Electronics and Hardware Coordinator at UFRJ Nautilus [2023 - Now]
 > 
-> Junior Back-End Developer | OBInvest | [2021]
+> Junior Back-End Developer at OBInvest [2021]
 > 
-> Robotics Academic Extension Activity | CEFET/RJ | [2019]
+> Robotics Academic Extension Activity at CEFET/RJ [2019]
 
 <br>
 
