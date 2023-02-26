@@ -16,7 +16,7 @@
 
 > <h2>Academic Background</h2>
 > 
-> Control and Automation Engeneering | UFRJ
+> Control and Automation Engineering | UFRJ
 > 
 > Industrial Automation Technician | CEFET/RJ | [2019 - 2022]
 
