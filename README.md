@@ -22,14 +22,6 @@
 
 <br>
 
-> <h2>Experiences</h2>
-> 
-> Junior Back-End Developer at OBInvest [2021]
-> 
-> Robotics Academic Extension Activity at CEFET/RJ [2019]
-
-<br>
-
 > <h2>Interests</h2>
 >
 > Robotics & IOT
