@@ -16,7 +16,7 @@
 
 > <h2>Academic Background</h2>
 > 
-> Control and Automation Engineering at UFRJ [2023 - Now]
+> Control and Automation Engineering at UFRJ [2022 - Now]
 > 
 > Industrial Automation Degree by CEFET/RJ [2019 - 2022]
 
