@@ -22,11 +22,7 @@
 
 <br>
 
-> <h2>Academic Experiences</h2>
-> 
-> Team Captain at UFRJ Nautilus [03/2023 - Now]
-> 
-> Electronics and Hardware Coordinator at UFRJ Nautilus [2023 - Now]
+> <h2>Experiences</h2>
 > 
 > Junior Back-End Developer at OBInvest [2021]
 > 
