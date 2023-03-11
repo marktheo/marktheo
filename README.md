@@ -26,7 +26,7 @@
 > 
 > Team Captain at UFRJ Nautilus [03/2023 - Now]
 > 
-> Electronics and Hardware Coordinator at UFRJ Nautilus [01/2023 - 02/2023]
+> Electronics and Hardware Coordinator at UFRJ Nautilus [2023 - Now]
 > 
 > Junior Back-End Developer at OBInvest [2021]
 > 
