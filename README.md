@@ -103,9 +103,9 @@
 
 <div align='center'>
 <a href="https://github.com/Marktheo">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marktheo&theme=nord"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Marktheo&hide=prs,issues&show_icons=true&theme=nord"/>
 	  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marktheo&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&line_height=20&theme=nord" width="355"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marktheo&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&line_height=20&theme=nord" width="273"/>
 </a>
 </div>
 
