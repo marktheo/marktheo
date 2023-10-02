@@ -1,6 +1,6 @@
 <h1 align='center'>Hi, I am Marcos Theodoro</h1>
 
-<div  align='center' style='display: flex; flex-direction: column;'>
+<div  align='center' style='display: flex; flex-direction: row;'>
 	<img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' width='480' height='360'>
 	<div  style='display: flex; flex-direction: row;'>
 		<img src='https://komarev.com/ghpvc/?username=Marktheo&color=blue'>
@@ -102,11 +102,9 @@
 <br>
 
 <div align='center'>
-<a href="https://github.com/Marktheo">
   <img src="https://github-readme-stats.vercel.app/api?username=Marktheo&hide=prs,issues&show_icons=true&theme=nord"/>
-	  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marktheo&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&line_height=20&theme=nord" width="273"/>
-</a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marktheo&hide=jupyter%20notebook&show_icons=true&layout=compact&locale=en&line_height=20&theme=nord" width="470"/>
 </div>
 
 <br><br>
