@@ -1,4 +1,4 @@
-<h1 align='center'>Hi, I am Marcos Theodoro 👋</h1>
+<h1 align='center'>Hi, I am Marcos Theodoro</h1>
 
 <div  align='center' style='display: flex; flex-direction: column;'>
 	<img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' width='480' height='360'>
