@@ -104,7 +104,7 @@
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=Marktheo&hide=prs,issues&show_icons=true&theme=nord"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marktheo&hide=jupyter%20notebook&show_icons=true&layout=compact&locale=en&line_height=20&theme=nord" width="470"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marktheo&hide=jupyter%20notebook&show_icons=true&layout=compact&locale=en&line_height=20&theme=nord" width="468"/>
 </div>
 
 <br><br>
