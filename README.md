@@ -1,36 +1,33 @@
 <h1 align='center'>Hi, I am Marcos Theodoro</h1>
-
 <div  align='center' style='display: flex; flex-direction: row;'>
-	<img src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' width='480' height='360'>
+	<img src='https://media.giphy.com/media/pFKNS89H7m0Tzzn4H2/giphy.gif' width='375'><br>
 	<div  style='display: flex; flex-direction: row;'>
-		<img src='https://komarev.com/ghpvc/?username=Marktheo&color=blue'>
-		<img src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg'>
+		<img src='https://komarev.com/ghpvc/?username=Marktheo&color=blue&style=for-the-badge'>
+		<img src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge'>
 	</div>
 </div>
 
 <br><br>
 
-<h1 align='center'>About me</h1>
+<h1 align='center'>Profile</h1>
 
 <br>
 
 > <h2>Academic Background</h2>
 > 
-> Control and Automation Engineering at UFRJ [2022 - Now]
+> - Control and Automation Engineering -- Federal University of Rio de Janeiro [UFRJ]
 > 
-> Industrial Automation Degree by CEFET/RJ [2019 - 2022]
+> - Industrial Automation Technician -- Celso Suckow da Fonseca Technological Education Federal Center [CEFET/RJ]
 
 <br>
 
 > <h2>Interests</h2>
 >
-> Robotics & IOT
+> - Robotics & IOT
 > 
-> Data Science
+> - Data Science & ML
 > 
-> Machine Learning
-> 
-> Web Development
+> - Web Development
 
 
 <br><br>
@@ -41,10 +38,14 @@
 <br>
 
 > <h2>Robotics & IOT</h2>
-![C](https://img.shields.io/badge/c/c++-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![ROS](https://img.shields.io/badge/ros-%2300599C.svg?style=for-the-badge&logo=ros&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 <br>
 
@@ -59,10 +60,10 @@
 <br>
 
 > <h2>Web Development</h2>
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -79,7 +80,8 @@
 > <h2>Other Tools</h2>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23326ce5.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -87,13 +89,10 @@
 
 <br>
 
-> <h2>Operational Systems & Distros</h2>
+> <h2>Operational Systems</h2>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 <br><br>
 
@@ -103,8 +102,6 @@
 
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=Marktheo&hide=prs,issues&show_icons=true&theme=nord"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marktheo&hide=jupyter%20notebook&show_icons=true&layout=compact&locale=en&line_height=20&theme=nord" width="468"/>
 </div>
 
 <br><br>
