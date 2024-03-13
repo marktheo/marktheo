@@ -33,7 +33,7 @@
 <br><br>
 
 
-<h1 align='center'>Skills</h1>
+<h1 align='center'>Knowledge</h1>
 
 <br>
 
