@@ -1,6 +1,6 @@
 <h1 align='center'>Hi, I am Marcos Theodoro</h1>
 <div  align='center' style='display: flex; flex-direction: row;'>
-	<img src='https://media.giphy.com/media/pFKNS89H7m0Tzzn4H2/giphy.gif' width='350'><br>
+	<img src='https://media.giphy.com/media/pFKNS89H7m0Tzzn4H2/giphy.gif' width='330'><br>
 	<div  style='display: flex; flex-direction: row;'>
 		<img src='https://komarev.com/ghpvc/?username=Marktheo&color=blue&style=for-the-badge'>
 		<img src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge'>
