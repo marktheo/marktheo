@@ -102,18 +102,3 @@
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=Marktheo&hide=prs,issues&show_icons=true&theme=nord"/>
 </div>
-
-<br><br>
-
-<h1 align='center'>Contact Me</h1>
-
-<br>
-
-<div align='center' style='display: flex; flex-direction: row;'>
-	<a href="https://linkedin.com/in/marcos-theodoro" target="_blank">
-		<img src="https://img.shields.io/badge/linkedin:  Marktheo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin>
-	</a>
-	<a href="mailto:marcos_theodoro.20221@poli.ufrj.br" target="_blank">
-		<img src="https://img.shields.io/badge/gmail:  PROFESSIONAL-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-	</a>
-</div>
