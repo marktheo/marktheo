@@ -17,7 +17,7 @@
 > 
 > - Control and Automation Engineering -- Federal University of Rio de Janeiro [UFRJ]
 > 
-> - Industrial Automation Technician -- Celso Suckow da Fonseca Technological Education Federal Center [CEFET/RJ]
+> - Industrial Automation Technician -- Celso Suckow da Fonseca Federal Center for Technological Education [CEFET/RJ]
 
 <br>
 
