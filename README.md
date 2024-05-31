@@ -65,6 +65,7 @@
 ![CSS3](https://img.shields.io/badge/css3-379AD5.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=white)
 
+
 ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
