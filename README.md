@@ -38,24 +38,25 @@
 <br>
 
 > <h2>Robotics & IOT</h2>
-![ROS](https://img.shields.io/badge/ros-%2300599C.svg?style=for-the-badge&logo=ros&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![ROS](https://img.shields.io/badge/ros-2D3F60.svg?style=for-the-badge&logo=ros&logoColor=white)
+![C](https://img.shields.io/badge/c-00599D.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599D.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-346C99?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white)
+![Espressif](https://img.shields.io/badge/espressif-C62817.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-BA1042?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2377B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 <br>
 
 > <h2>Data Science & Machine Learning</h2>
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37821.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=white)
-![Pandas](https://img.shields.io/badge/pandas-%23ffffff.svg?style=for-the-badge&logo=pandas&logoColor=130754)
-![NumPy](https://img.shields.io/badge/numpy-%23ffffff.svg?style=for-the-badge&logo=numpy&logoColor=113140)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=113140)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=113140)
+![NumPy](https://img.shields.io/badge/numpy-%23FFFFFF.svg?style=for-the-badge&logo=numpy&logoColor=113140)
+![Pandas](https://img.shields.io/badge/pandas-%23FFFFFF.svg?style=for-the-badge&logo=pandas&logoColor=130754)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FFFFFF.svg?style=for-the-badge&logo=plotly&logoColor=113140)
+![Plotly](https://img.shields.io/badge/Plotly-%23FFFFFF.svg?style=for-the-badge&logo=plotly&logoColor=113140)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23FFFFFF.svg?style=for-the-badge&logo=scikit-learn&logoColor=113140)
 
 <br>
 
