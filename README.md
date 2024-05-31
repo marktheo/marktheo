@@ -39,43 +39,45 @@
 
 > <h2>Robotics & IOT</h2>
 ![ROS](https://img.shields.io/badge/ros-2D3F60.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Assembly](https://img.shields.io/badge/assembly%20script-00599D.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599D.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599D.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-346C99?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Espressif](https://img.shields.io/badge/espressif-C62817.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-BA1042?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2377B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![Nvidia](https://img.shields.io/badge/nVIDIA-77B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 <br>
 
 > <h2>Data Science & Machine Learning</h2>
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37821.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-F37821.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=white)
-![NumPy](https://img.shields.io/badge/numpy-%23FFFFFF.svg?style=for-the-badge&logo=numpy&logoColor=113140)
-![Pandas](https://img.shields.io/badge/pandas-%23FFFFFF.svg?style=for-the-badge&logo=pandas&logoColor=130754)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FFFFFF.svg?style=for-the-badge&logo=plotly&logoColor=113140)
-![Plotly](https://img.shields.io/badge/Plotly-%23FFFFFF.svg?style=for-the-badge&logo=plotly&logoColor=113140)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23FFFFFF.svg?style=for-the-badge&logo=scikit-learn&logoColor=113140)
+![NumPy](https://img.shields.io/badge/numpy-FFFFFF.svg?style=for-the-badge&logo=numpy&logoColor=113140)
+![Pandas](https://img.shields.io/badge/pandas-FFFFFF.svg?style=for-the-badge&logo=pandas&logoColor=130754)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF.svg?style=for-the-badge&logo=plotly&logoColor=113140)
+![Plotly](https://img.shields.io/badge/Plotly-FFFFFF.svg?style=for-the-badge&logo=plotly&logoColor=113140)
+![Scikit](https://img.shields.io/badge/scikit--learn-FFFFFF.svg?style=for-the-badge&logo=scikit-learn&logoColor=113140)
 
 <br>
 
 > <h2>Web Development</h2>
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/html5-E54D26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-379AD5.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-3CACC3.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/python-346C99?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003856.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Java](https://img.shields.io/badge/java-E76F00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-D2A41F.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-003856.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
