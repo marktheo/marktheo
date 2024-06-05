@@ -28,6 +28,10 @@
 > - Data Science & ML
 > 
 > - Web Development
+> 
+> - Servers, VMs & CC
+> 
+> - Operating Systems
 
 
 <br><br>
