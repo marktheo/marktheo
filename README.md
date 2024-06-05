@@ -37,7 +37,7 @@
 
 <br>
 
-> <h2>Robotics & IOT</h2>
+> <h2>Robotics & Internet of Things</h2>
 ![ROS](https://img.shields.io/badge/ros-2D3F60.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599D.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599D.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -52,11 +52,11 @@
 > <h2>Data Science & Machine Learning</h2>
 ![Jupyter](https://img.shields.io/badge/jupyter-F37821.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=white)
-![NumPy](https://img.shields.io/badge/numpy-FFFFFF.svg?style=for-the-badge&logo=numpy&logoColor=113140)
-![Pandas](https://img.shields.io/badge/pandas-FFFFFF.svg?style=for-the-badge&logo=pandas&logoColor=130754)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF.svg?style=for-the-badge&logo=plotly&logoColor=113140)
-![Plotly](https://img.shields.io/badge/Plotly-FFFFFF.svg?style=for-the-badge&logo=plotly&logoColor=113140)
-![Scikit](https://img.shields.io/badge/scikit--learn-FFFFFF.svg?style=for-the-badge&logo=scikit-learn&logoColor=113140)
+![NumPy](https://img.shields.io/badge/numpy-FFFFFF.svg?style=for-the-badge&logo=numpy&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-FFFFFF.svg?style=for-the-badge&logo=pandas&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF.svg?style=for-the-badge&logo=plotly&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-FFFFFF.svg?style=for-the-badge&logo=plotly&logoColor=black)
+![Scikit](https://img.shields.io/badge/scikit--learn-FFFFFF.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)
 
 <br>
 
@@ -76,7 +76,6 @@
 
 ![Java](https://img.shields.io/badge/java-E76F00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-D2A41F.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-003856.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
@@ -95,7 +94,7 @@
 
 > <h2>Operating Systems</h2>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-A4C639?style=for-the-badge&logo=android&logoColor=white)
 
