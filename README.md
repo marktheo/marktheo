@@ -51,7 +51,7 @@
 
 > <h2>Data Science & Machine Learning</h2>
 ![Jupyter](https://img.shields.io/badge/jupyter-F37821.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=white)
+![Colab](https://img.shields.io/badge/Colab-FFFFFF?style=for-the-badge&logo=googlecolab&color=white)
 ![NumPy](https://img.shields.io/badge/numpy-FFFFFF.svg?style=for-the-badge&logo=numpy&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-FFFFFF.svg?style=for-the-badge&logo=pandas&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF.svg?style=for-the-badge&logo=plotly&logoColor=black)
