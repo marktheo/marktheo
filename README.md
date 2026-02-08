@@ -9,10 +9,6 @@
 
 <br><br>
 
-<h1 align='center'>Profile</h1>
-
-<br>
-
 > <h2>Academic Background</h2>
 > 
 > - Control and Automation Engineering -- Federal University of Rio de Janeiro [UFRJ]
@@ -23,37 +19,45 @@
 
 > <h2>Interests</h2>
 >
-> - Robotics & IOT
+> - Robotics & Internet of Things
 > 
-> - Data Science & ML
+> - Data Science & Data Analysis
 > 
-> - Web Development
+> - Development & Deploying Tools
 > 
-> - Servers, VMs & CC
-> 
-> - Operating Systems
+> - Operating Systems and Distros
 
 
 <br><br>
 
 
-<h1 align='center'>Knowledge</h1>
-
-<br>
-
-> <h2>Robotics & Internet of Things</h2>
+> <h2>Robotics</h2>
 ![ROS](https://img.shields.io/badge/ros-2D3F60.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599D.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599D.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-346C99?style=for-the-badge&logo=python&logoColor=white)
+![Octave](https://img.shields.io/badge/Octave-346C99.svg?style=for-the-badge&logo=Octave&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-346C99.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Espressif](https://img.shields.io/badge/espressif-C62817.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-BA1042?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Nvidia](https://img.shields.io/badge/nVIDIA-77B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![Nvidia](https://img.shields.io/badge/Jetson-77B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 <br>
 
-> <h2>Data Science & Machine Learning</h2>
+> <h2>Internet of Things</h2>
+![C](https://img.shields.io/badge/c-00599D.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599D.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white)
+![Espressif](https://img.shields.io/badge/espressif-C62817.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-BA1042?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066.svg?style=for-the-badge&logo=MQTT&logoColor=white)
+![Mosquitto](https://img.shields.io/badge/Eclipse%20Mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![Node](https://img.shields.io/badge/Node--RED-8F0000.svg?style=for-the-badge&logo=Node-RED&logoColor=white)
+
+<br>
+
+> <h2>Data Analysis</h2>
 ![Jupyter](https://img.shields.io/badge/jupyter-F37821.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-FFFFFF?style=for-the-badge&logo=googlecolab&color=white)
 ![NumPy](https://img.shields.io/badge/numpy-FFFFFF.svg?style=for-the-badge&logo=numpy&logoColor=black)
@@ -64,43 +68,18 @@
 
 <br>
 
-> <h2>Web Development</h2>
-![HTML5](https://img.shields.io/badge/html5-E54D26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-379AD5.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=white)
-
-![Flask](https://img.shields.io/badge/flask-3CACC3.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/python-346C99?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-003856.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-E76F00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-D2A41F.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-003856.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br>
-
-> <h2>Other Tools</h2>
+> <h2>Development and Deployment</h2>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%23326ce5.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Distrobox](https://img.shields.io/badge/Distrobox-4F433C.svg?style=for-the-badge&logo=Distrobox&logoColor=white)
 
 <br>
 
 > <h2>Operating Systems</h2>
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-A4C639?style=for-the-badge&logo=android&logoColor=white)
-
-<br><br>
-
-<h1 align='center'>GitHub Statistics</h1>
-
-<br>
-
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Marktheo&hide=prs,issues&show_icons=true&theme=nord"/>
-</div>
+![WSL](https://img.shields.io/badge/WSL-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Alpine](https://img.shields.io/badge/Alpine-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
