@@ -49,7 +49,7 @@
 ![Espressif](https://img.shields.io/badge/espressif-C62817.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-BA1042?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066.svg?style=for-the-badge&logo=MQTT&logoColor=white)
-![Mosquitto](https://img.shields.io/badge/Eclipse%20Mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![Mosquitto](https://img.shields.io/badge/Mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![Node](https://img.shields.io/badge/Node--RED-8F0000.svg?style=for-the-badge&logo=Node-RED&logoColor=white)
 
 <br>
