@@ -33,10 +33,8 @@
 
 > <h2>Robotics</h2>
 ![ROS](https://img.shields.io/badge/ros-2D3F60.svg?style=for-the-badge&logo=ros&logoColor=white)
-![C](https://img.shields.io/badge/c-00599D.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599D.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c/c++-00599D.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-346C99?style=for-the-badge&logo=python&logoColor=white)
-![Octave](https://img.shields.io/badge/Octave-346C99.svg?style=for-the-badge&logo=Octave&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-346C99.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Espressif](https://img.shields.io/badge/espressif-C62817.svg?style=for-the-badge&logo=espressif&logoColor=white)
@@ -46,8 +44,7 @@
 <br>
 
 > <h2>Internet of Things</h2>
-![C](https://img.shields.io/badge/c-00599D.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599D.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c/c++-00599D.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Espressif](https://img.shields.io/badge/espressif-C62817.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-BA1042?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
